@@ -109,6 +109,7 @@ main {
   flex: 1;
   margin-top: 10px;
   margin-left: 30px;
+  margin-right: 30px;
 }
 
 #about img {
@@ -149,6 +150,7 @@ main {
   flex: 1;
   margin-top: 10px;
   margin-left: 30px;
+  margin-right: 30px;
 }
 
 #education img {
